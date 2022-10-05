@@ -1,11 +1,13 @@
 body {
+    margin: 0;
+
     background: #2F2E41;
 
     font-family: 'Open Sans', sans-serif;
 }
 
 .page {
-    width: 1000px;
+    width: 1092px;
     margin: 30px auto 0;
 }
 
@@ -88,7 +90,7 @@ section p span {
 #lock {
     position: fixed;
     left: 20px;
-    bottom: 20px;
+    bottom: 10px;
 }
 
 footer {
@@ -99,7 +101,7 @@ footer {
     text-align: center;
     color: #FFFFFF;
 
-    margin-top: 140px;
+    margin-top: 110px;
     margin-bottom: 0;
 }
 
