@@ -1,6 +1,6 @@
 # Projeto 03 | Programa Explorer da Rocketseat
 
-<img src="./images/img2.png" width=450px>
+<img src="./images/img2.png" width=650px>
 
 [🔗 Clique aqui para acessar](https://alineviana.github.io/recriando-layout/)
 
